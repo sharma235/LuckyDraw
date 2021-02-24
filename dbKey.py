@@ -1,6 +1,6 @@
 sql = {
     "host": "localhost",
-    "user": "root",
+    "user": "",
     #enter password for root in database
-    "passwd": "01883sharma",
+    "passwd": "",
 }
